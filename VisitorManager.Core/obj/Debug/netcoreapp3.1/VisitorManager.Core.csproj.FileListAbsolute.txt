@@ -1,0 +1,17 @@
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.deps.json
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.dll
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.pdb
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.AssemblyInfoInputs.cache
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.AssemblyInfo.cs
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.csproj.CoreCompileInputs.cache
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.dll
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.pdb
+C:\_Nauka\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.csprojAssemblyReference.cache
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.deps.json
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.dll
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\bin\Debug\netcoreapp3.1\VisitorManager.Core.pdb
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.AssemblyInfoInputs.cache
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.AssemblyInfo.cs
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.csproj.CoreCompileInputs.cache
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.dll
+C:\_Nauka\SC\SuperControlVisitorManagerAPI\VisitorManager.Core\obj\Debug\netcoreapp3.1\VisitorManager.Core.pdb

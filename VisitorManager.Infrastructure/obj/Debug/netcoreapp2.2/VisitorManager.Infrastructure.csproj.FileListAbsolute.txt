@@ -1,0 +1,17 @@
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Infrastructure.deps.json
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Infrastructure.runtimeconfig.json
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Infrastructure.runtimeconfig.dev.json
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Infrastructure.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Infrastructure.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Core.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Persistence.Migrations.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Core.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\bin\Debug\netcoreapp2.2\VisitorManager.Persistence.Migrations.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.csprojAssemblyReference.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.AssemblyInfoInputs.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.AssemblyInfo.cs
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.csproj.CopyComplete
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Infrastructure\obj\Debug\netcoreapp2.2\VisitorManager.Infrastructure.genruntimeconfig.cache

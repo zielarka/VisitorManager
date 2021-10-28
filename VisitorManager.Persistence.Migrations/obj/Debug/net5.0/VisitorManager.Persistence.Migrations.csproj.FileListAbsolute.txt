@@ -1,0 +1,17 @@
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Persistence.Migrations.deps.json
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Persistence.Migrations.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\ref\VisitorManager.Persistence.Migrations.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Persistence.Migrations.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Core.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Infrastructure.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Infrastructure.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\bin\Debug\net5.0\VisitorManager.Core.pdb
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.csprojAssemblyReference.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.AssemblyInfoInputs.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.AssemblyInfo.cs
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.csproj.CoreCompileInputs.cache
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.csproj.CopyComplete
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\ref\VisitorManager.Persistence.Migrations.dll
+C:\_Nauka\SC\ApiVisitorManager\ApiVisitorManager\VisitorManager.Persistence.Migrations\obj\Debug\net5.0\VisitorManager.Persistence.Migrations.pdb
